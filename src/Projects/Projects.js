@@ -47,6 +47,9 @@ class Projects extends Component {
             <div className="col-sm-4">
               <TeaserCard cardData={projectData.glParticles} />
             </div>
+            <div className="col-sm-4">
+              <TeaserCard cardData={projectData.AstarVis} />
+            </div>
           </div>
         </div>
       </ProjectContainer >

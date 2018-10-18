@@ -48,5 +48,10 @@ export default {
     title: 'glCore',
     imageURL: 'particles.gif',
     link: 'https://github.com/pulkitjuneja/GlCore'
+  },
+  AstarVis: {
+    title: 'Astar Visualizer',
+    imageURL: 'Astarvis.gif',
+    link: 'https://github.com/pulkitjuneja/AstarVisualizer'
   }
 }
