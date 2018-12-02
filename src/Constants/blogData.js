@@ -1,4 +1,11 @@
 export default {
+  openglRendering: {
+    title: 'The OpenGL rendering pipeline in a nutshell',
+    description: 'Did you ever wonder, while playing a video games or watching a animation movie, how do these complex scenes with hundreds of models and textures get transformed into a single image that can be displayed on a monitor ?...',
+    imageURL: 'https://i.imgur.com/4ieBRpu.jpg',
+    date: '26th November 2018',
+    link: 'https://medium.com/@pulkit.16296/the-opengl-rendering-pipeline-in-a-nutshell-b14874ce8aa2'
+  },
   unet: {
     title: 'Using multiple player prefabs with UNET in Unity',
     description: 'Unity provides an inbuilt network manager that is really good for small games and quick prototyping. It comes as an out if the box pluggable component that can be added to any game...',
