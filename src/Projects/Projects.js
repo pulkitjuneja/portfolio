@@ -44,7 +44,7 @@ class Projects extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-sm">
+            <div className="col-sm-4">
               <TeaserCard cardData={projectData.meshDeformation} />
             </div>
             <div className="col-sm-4">
