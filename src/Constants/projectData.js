@@ -46,7 +46,7 @@ export default {
   },
   glParticles: {
     title: 'glCore',
-    imageURL: 'particles.gif',
+    imageURL: 'https://raw.githubusercontent.com/pulkitjuneja/GlCore/develop/Assets/Screenshots/scr1.PNG',
     link: 'https://github.com/pulkitjuneja/GlCore'
   },
   AstarVis: {

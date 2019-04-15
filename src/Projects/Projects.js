@@ -11,14 +11,14 @@ class Projects extends Component {
         <CenterAlignedHeading>Projects and Experiments </CenterAlignedHeading>
         <div className='container'>
           <div className="row">
+            <div className="col-sm-4">
+              <TeaserCard cardData={projectData.glParticles} />
+            </div>
             <div className="col-sm">
               <TeaserCard cardData={projectData.magnetic} />
             </div>
             <div className="col-sm">
               <TeaserCard cardData={projectData.neonShifter} />
-            </div>
-            <div className="col-sm">
-              <TeaserCard cardData={projectData.meshDeformation} />
             </div>
           </div>
           <div className="row">
@@ -44,8 +44,8 @@ class Projects extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-sm-4">
-              <TeaserCard cardData={projectData.glParticles} />
+            <div className="col-sm">
+              <TeaserCard cardData={projectData.meshDeformation} />
             </div>
             <div className="col-sm-4">
               <TeaserCard cardData={projectData.AstarVis} />
