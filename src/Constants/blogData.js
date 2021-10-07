@@ -26,5 +26,12 @@ export default {
     date: 'july 2017 in IJSEA',
     imageURL: 'glove.jpeg',
     link: 'http://aircconline.com/ijsea/V8N4/8417ijsea03.pdf'
+  },
+  EVA: {
+    title: 'Emotion-Driven Facial Animation for Chat-Bots',
+    description: 'This paper presents a methodology to create an emotionally expressive virtual AI that understands the sentiment of the conversation and displays emotions accordingly. To achieve this, the system uses a generative chatbot and combined it    with a 3D talking head that is animated parametrically.',
+    date: 'November 2019 in IJRTE',
+    imageURL: 'Eva.png',
+    link: 'https://www.ijrte.org/wp-content/uploads/papers/v8i4/D9576118419.pdf'
   }
 }

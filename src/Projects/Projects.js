@@ -23,29 +23,30 @@ class Projects extends Component {
           </div>
           <div className="row">
             <div className="col-sm">
-              <TeaserCard cardData={projectData.rays} />
-            </div>
-            <div className="col-sm">
               <TeaserCard cardData={projectData.eva} />
             </div>
             <div className="col-sm">
-              <TeaserCard cardData={projectData.raysCaster} />
+              <TeaserCard cardData={projectData.rays} />
+            </div>
+            <div className="col-sm">
+              <TeaserCard cardData={projectData.insightVR} />
+              
             </div>
           </div>
           <div className="row">
             <div className="col-sm-4">
-              <TeaserCard cardData={projectData.insightVR} />
+              <TeaserCard cardData={projectData.raysCaster} />  
             </div>
             <div className="col-sm-4">
               <TeaserCard cardData={projectData.rpb} />
             </div>
             <div className="col-sm-4">
-              <TeaserCard cardData={projectData.markerlessWebAR} />
+              <TeaserCard cardData={projectData.meshDeformation} />
             </div>
           </div>
           <div className="row">
             <div className="col-sm-4">
-              <TeaserCard cardData={projectData.meshDeformation} />
+            <TeaserCard cardData={projectData.markerlessWebAR} />
             </div>
             <div className="col-sm-4">
               <TeaserCard cardData={projectData.AstarVis} />

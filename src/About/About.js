@@ -7,7 +7,10 @@ class About extends Component {
     return (
       <AboutContainer>
         <CenterAlignedHeading>About Me</CenterAlignedHeading>
-        <p>Pulkit is a full stack developer with an aptitude in Game development and computer graphics. He love both making and playing games. He has professional experience with end to end development and deployment of web and mobile applications, game development. besides that he also have experience with AR/VR, graphics programming. he is a creator at heart and loves to hack around and build innovative things in his free time.</p>
+        <p>Hello! I am a game developer and graphics programmer currently pursuing the Masters in Game Design and Development degree at Rochester Institute of Technology.
+          I love both playing and making games and spend most of my free time trying to understand and implement different rendering techniques in my sandbox engine. 
+          Besides That, I also have experience with AR/VR, Full stack application development and network programming
+        </p>
       </AboutContainer>
     );
   }

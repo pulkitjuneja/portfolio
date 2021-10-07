@@ -5,14 +5,14 @@ export default {
     link: "https://github.com/pulkitjuneja/magnet"
   },
   neonShifter: {
-    title: 'Neon Shifters',
-    imageURL: 'neonShifters.png',
-    link: 'https://github.com/pulkitjuneja/NeonShifters'
+    title: 'Procedural Planets',
+    imageURL: 'Planets.png',
+    link: 'https://github.com/pulkitjuneja/Procedural-Planets'
   },
   meshDeformation: {
-    title: 'Procedural Mesh Deformation',
-    imageURL: 'MeshDeform.png',
-    link: 'https://github.com/pulkitjuneja/Procedural-Mesh-Deformation-unity'
+    title: 'Unreal Narrative Prototype',
+    imageURL: 'Goldilocks.png',
+    link: 'https://github.com/txa7348/603-Narrative-Prototype'
   },
   rays: {
     title: 'C++ RayTracer',
@@ -35,9 +35,9 @@ export default {
     link: 'https://gitlab.com/InsightVR/InsightVR-Cardboard'
   },
   rpb: {
-    title: 'React Particle Background banner',
-    imageURL: 'rpb.gif',
-    link: 'https://github.com/pulkitjuneja/React-Full-screen-Particle-Banner'
+    title: 'Neon Shooters (Unity) ',
+    imageURL: 'Neon.png',
+    link: 'https://github.com/AdityaSinhaGD/Bullethell-Prototype'
   },
   markerlessWebAR: {
     title: 'Markerless WebAR',
@@ -45,9 +45,9 @@ export default {
     link: 'https://github.com/pulkitjuneja/AR-hoops'
   },
   glParticles: {
-    title: 'glCore',
-    imageURL: 'https://raw.githubusercontent.com/pulkitjuneja/GlCore/develop/Assets/Screenshots/scr1.PNG',
-    link: 'https://github.com/pulkitjuneja/GlCore'
+    title: 'OpenGL C++ Engine',
+    imageURL: 'https://raw.githubusercontent.com/pulkitjuneja/GlEn/master/SandBox/Assets/Screenshots/Screenshot%202021-10-01%20175642.png',
+    link: 'https://github.com/pulkitjuneja/GlEn'
   },
   AstarVis: {
     title: 'Astar Visualizer',
