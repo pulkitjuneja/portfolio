@@ -53,5 +53,10 @@ export default {
     title: 'Astar Visualizer',
     imageURL: 'Astarvis.gif',
     link: 'https://github.com/pulkitjuneja/AstarVisualizer'
+  },
+  FluidSim: {
+    title: 'Fluid Simulation (DOTS)',
+    imageURL: 'https://github.com/pulkitjuneja/DOTS-Fluid-Simulation/blob/master/FluidSim.gif?raw=true',
+    link: 'https://github.com/pulkitjuneja/DOTS-Fluid-Simulation'
   }
 }

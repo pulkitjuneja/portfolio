@@ -29,8 +29,7 @@ class Projects extends Component {
               <TeaserCard cardData={projectData.rays} />
             </div>
             <div className="col-sm">
-              <TeaserCard cardData={projectData.insightVR} />
-              
+              <TeaserCard cardData={projectData.FluidSim} />
             </div>
           </div>
           <div className="row">
@@ -50,6 +49,9 @@ class Projects extends Component {
             </div>
             <div className="col-sm-4">
               <TeaserCard cardData={projectData.AstarVis} />
+            </div>
+            <div className="col-sm-4">
+              <TeaserCard cardData={projectData.insightVR} />
             </div>
           </div>
         </div>
